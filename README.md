@@ -35,6 +35,10 @@
 Final Year Project extending an MIT-published research paper on early disease detection. Reproduced the original model, then improved on it — our approach achieved a higher F1 score than the benchmark reported in the MIT paper. Built with my FYP team.
 `Python` · `Machine Learning` · `Research`
 
+**[AdEarlySense — Early Disease Detection (FYP)](https://github.com/waseem087/AdEarlySense)**
+Final Year Project extending an MIT-published research paper on early disease detection. Reproduced the original model, then improved on it — our approach achieved a higher F1 score than the benchmark reported in the MIT paper. Built with my FYP team.
+`Python` · `Machine Learning` · `Research`
+
 **[SDA — Banking Management System](https://github.com/waseem087/SDA)**
 End-to-end banking application: account management, transaction processing, and role-based access for admins and customers.
 `Java` · `JavaFX` · `MySQL`
