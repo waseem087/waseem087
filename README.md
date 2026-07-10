@@ -1,16 +1,43 @@
-## Hi there 👋
+# Muhammad Waseem Akhtar
 
-<!--
-**waseem087/waseem087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer focused on secure, data-driven systems** — banking applications, cryptographic protocols, and applied machine learning. Computer Science student at FAST-NUCES, Islamabad.
 
-Here are some ideas to get you started:
+📍 Islamabad, Pakistan · 🌐 [Portfolio](https://waseem087.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/waseemakhtar087cs/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured work
+
+**[SDA — Banking Management System](https://github.com/waseem087/SDA)**
+End-to-end banking application: account management, transaction processing, and role-based access for admins and customers.
+`Java` · `JavaFX` · `MySQL`
+
+**[SecureChat](https://github.com/waseem087/securechat-assignment)**
+Encrypted messaging system built to apply core cryptographic principles to real-time communication.
+`Python` · `Cryptography`
+
+**[Operating System Simulator](https://github.com/waseem087/Operating-System)**
+Systems-level project covering process scheduling and memory management fundamentals.
+`C++`
+
+**[Dodge-em](https://github.com/waseem087/Dodge-em)**
+[One-line description here — what the project does and why it's interesting]
+`C++`
+
+---
+
+### Toolkit
+
+| Area | Stack |
+|---|---|
+| Languages | Java, Python, C++, TypeScript |
+| Data & ML | Deep learning fundamentals (Urdu poetry generation) |
+| Systems | MySQL, JavaFX, Git |
+
+---
+
+### Right now
+
+- 🎓 Completing my CS degree at FAST-NUCES
+- 🔍 Open to Software Engineering / AI-ML internships and entry-level roles
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/waseemakhtar087cs/)
